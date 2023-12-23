@@ -1,3 +1,6 @@
+<img width="802" alt="image" src="https://github.com/yunustaha/contacts-app/assets/48367134/1da5fdd7-fa09-48c2-93a6-3fe26c2dae8f">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
